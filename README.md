@@ -107,7 +107,7 @@ Includes tests for authentication (test_auth.py) and sweets CRUD & inventory ope
 Swagger UI with endpoints- 
 [!swagger ui] (1.png)
 
-[!swagger ui] (2.png)
+!(https://raw.githubusercontent.com/Pranathi-Chintarapu64/sweet-shop/main/2.png)
 
 
 ---
