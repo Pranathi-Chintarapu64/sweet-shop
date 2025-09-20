@@ -77,7 +77,7 @@ uvicorn app.main:app --reload
 Runs on http://localhost:8000.
 ```
 
-###Frontend
+### Frontend
 Navigate to frontend folder:
 
 ```bash
@@ -95,7 +95,7 @@ Open browser:
 http://localhost:5173
 Frontend communicates with backend at http://localhost:8000 by default.
 
-###Running Tests
+### Running Tests
 ```bash
 cd backend
 pytest
@@ -105,14 +105,14 @@ Includes tests for authentication (test_auth.py) and sweets CRUD & inventory ope
 ### Screenshots 
 
 Swagger UI with endpoints- 
-[!swagger ui] (1.png)
+![A screenshot of my project](1.png)
 
 ![A screenshot of my project](2.png)
 
 
 ---
 
-##My AI Usage
+## My AI Usage
 I used ChatGPT to assist with:
 
 - Generating boilerplate code for FastAPI routers and Pydantic schemas.
