@@ -107,7 +107,7 @@ Includes tests for authentication (test_auth.py) and sweets CRUD & inventory ope
 Swagger UI with endpoints- 
 [!swagger ui] (1.png)
 
-!(2.png)
+![A screenshot of my project](2.png)
 
 
 ---
